@@ -1,5 +1,16 @@
 # Exercise 01 - Hello World
 
+
+*** *jessi4twork* updateSection START (most recent first)
+
+** August 28, 2026
+  * Ran npm test on .spec.js file - attempt 1 - failed - 2 passed
+  * Edited js file to return 'Hello, World!'
+
+
+*** *jessi4twork* updateSection END
+
+
 The main purpose of this exercise is to walk you through the process of running the tests and make sure everything is set up and running correctly.
 
 In this directory you will find 2 other files:
