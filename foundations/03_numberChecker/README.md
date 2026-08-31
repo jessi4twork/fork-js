@@ -1,5 +1,12 @@
 # Exercise 03 - numberChecker
 
+** August 31, 2026
+  * Ran npm test on .spec.js file - attempt 1 - failed - 
+  * Adjusted conditional if statement and added console log to pass the test suite.
+
+*** *jessi4twork* updateSection END
+
+
 Modify the code so it returns `true` when the number is greater than or equal to 10, and `false` if it is less than 10.
 
 Currently, the code returns `true` if the number is `6`, otherwise, it returns `false`.
