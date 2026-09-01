@@ -1,5 +1,11 @@
 # Exercise 04 - mathEquations
 
+** September 01, 2026
+  * Refactored string-based math evaluations to use standard integer operations.
+
+*** *jessi4twork* updateSection END
+
+
 Replace the strings to the right of the `=` with the expression they describe. Do **not** manually enter the answers to the equation.
 
 Currently, the variables are strings. They need to be math equations instead.
