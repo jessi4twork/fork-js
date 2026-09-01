@@ -1,5 +1,12 @@
 # Exercise 05 - joinStrings
 
+** September 01, 2026
+  * Used customized values and failed firs test. Reread instructions and changed to exact values required because I forgot to save file.
+  * Third npm test passed.
+  * Added 2 new variables to shorten greeting value. Fourth npm test passed.
+
+*** *jessi4twork* updateSection END
+
 ## Step 1: Learn
 
 First, look at the example code in `joinStrings-example.js`. Try and predict what the `console.log` output will be. When you're ready, run the test:
