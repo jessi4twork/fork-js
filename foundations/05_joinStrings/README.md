@@ -1,5 +1,6 @@
 # Exercise 05 - joinStrings
 
+*** *jessi4twork* updateSection START (most recent first)
 ** September 01, 2026
   * Used customized values and failed firs test. Reread instructions and changed to exact values required because I forgot to save file.
   * Third npm test passed.

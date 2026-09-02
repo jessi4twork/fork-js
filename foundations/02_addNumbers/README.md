@@ -1,7 +1,6 @@
 # Exercise 02 - addNumbers
 
 *** *jessi4twork* updateSection START (most recent first)
-
 ** August 31, 2026
   * Ran npm test on .spec.js file - attempt 1 - failed - 2 - passed
   * Removed quotes on a and b on results

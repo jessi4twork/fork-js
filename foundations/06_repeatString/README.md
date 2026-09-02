@@ -1,5 +1,13 @@
 # Exercise 06 - repeatString
 
+*** *jessi4twork* updateSection START (most recent first)
+** September 02, 2026
+  * Set parameters of function.
+  * Created empty string to hold result.
+  * Fixed loop to run by number parameter.
+  * Formatted console log.
+*** *jessi4twork* updateSection END
+
 Write a function that simply repeats the string a given number of times:
 
 ```javascript
