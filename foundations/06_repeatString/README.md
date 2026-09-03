@@ -6,6 +6,7 @@
   * Created empty string to hold result.
   * Fixed loop to run by number parameter.
   * Formatted console log.
+  * First npm test failed, edited parameters as required on readme.Second npm test passed.
 *** *jessi4twork* updateSection END
 
 Write a function that simply repeats the string a given number of times:

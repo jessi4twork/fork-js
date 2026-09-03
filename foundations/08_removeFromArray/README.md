@@ -1,5 +1,13 @@
 # Exercise 08 - removeFromArray
 
+*** *jessi4twork* updateSection START (most recent first)
+** September 03, 2026
+  * Added two parameters for array and the index placement to remove.
+  * Created result array to check where the item that needs to be removed is located.
+  * Wrote if statement that if with splice to cut out the object if it exists, returning the updated array, and loggin it on console.
+  * First npm test failed, I forgot to replace, the first parameter inside the if statement for splice. Second passed.
+*** *jessi4twork* updateSection END
+
 Implement a function that takes an array and some other arguments then removes the other arguments from that array, and returns the resulting array:
 
 ```javascript

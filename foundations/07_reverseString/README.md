@@ -1,5 +1,13 @@
 # Exercise 07 - Reverse a String
 
+*** *jessi4twork* updateSection START (most recent first)
+** September 03, 2026
+  * Added paramater.
+  * Joined all three functions split, reverse, and join.
+  * Logged on console sample.
+  * npm test passed.
+*** *jessi4twork* updateSection END
+
 Pretty simple, write a function called `reverseString` that returns its input, reversed!
 
 ```javascript
