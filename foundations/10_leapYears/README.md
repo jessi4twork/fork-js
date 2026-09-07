@@ -1,5 +1,13 @@
 # Exercise 10 - leapYears
 
+*** *jessi4twork* updateSection START (most recent first)
+** September 07, 2026
+  * Ran npm test on first try.
+  * Rewrote it using a simple waterfall logic: first checking if its divisible by 400, then not by 100, and finally by 4 is true.
+  * Removed the initial for loop to keep the logic simple and clean.
+  * Originally tried creating an empty array, using for loop, and nesting several if statements but got lost in the complexity.
+*** *jessi4twork* updateSection END
+
 Create a function that determines whether or not a given year is a leap year. Leap years are determined by the following rules:
 
 > Leap years are years divisible by four (like 1984 and 2004). However, years divisible by 100 are not leap years (such as 1800 and 1900) unless they are divisible by 400 (like 1600 and 2000, which were in fact leap years). (Yes, it's all pretty confusing)
