@@ -1,5 +1,12 @@
 # Exercise 11 - tempConversion
 
+*** *jessi4twork* updateSection START (most recent first)
+** September 08, 2026
+  * Test failed again. It requires that if result has a 0 after decimal that it be ommitted so I updated return to +variable.toFixed(num) and it passed on third attempt.;
+  * NPM test failed on first try. Updated toFixed to one decimal as per instructions;
+  * Added temp conversation in normal math statment to code added toFixed to clean decimals.
+*** *jessi4twork* updateSection END
+
 Write two functions that convert temperatures from Fahrenheit to Celsius, and vice versa:
 
 ```javascript
