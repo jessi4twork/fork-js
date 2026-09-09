@@ -1,5 +1,13 @@
 # Exercise 12 - Calculator
 
+*** *jessi4twork* updateSection START (most recent first)
+** September 09, 2026
+  * NPM test passed on first try.
+  * In factorial function, used the for loop and counted down using i--;
+  * Utilized for loop in sum and multiply function to get all integers in the array and do the operation required;
+  * Used the simplest code for addition, subtraction, and power operation by just using the operation needed;
+*** *jessi4twork* updateSection END
+
 The goal for this exercise is to create a calculator that does the following:
 
 1. `add()`: take two numbers and return their sum
