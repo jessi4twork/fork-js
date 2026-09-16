@@ -1,4 +1,6 @@
 # Exercise 13 - Palindromes
+
+*** *jessi4twork* updateSection START (most recent first)
 ** September 11, 2026
   * Passed the second test. I also learned that I only have to type the file name while in the directory containing the spec.js file.
   * The NPM test failed when using a for loop. To fix it, I omitted the loop and created two different baskets: one for the lowercase, character-replaced string, and another for the split, reverse, and join chain. It now returns true if the cleaned string matches the reversed string.
