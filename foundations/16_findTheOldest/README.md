@@ -1,5 +1,13 @@
 # Exercise 16 - Find the Oldest
 
+*** *jessi4twork* updateSection START (most recent first)
+** September 21, 2026
+  * Passed on third attempt.
+  * Second test failed. Forgot to save adjustments. 
+  * First test failed. Have to adjust to test requirements like living people.
+  * Added a for loop to calculate each person's lifespan and if statement to track the oldest person.
+*** *jessi4twork* updateSection END
+
 Given an array of objects representing people with a birth and death year, return the oldest person.
 
 Now that you've reached the final exercise, you should be fairly comfortable getting the information you need from test case(s). Take a look at how the array of objects is constructed in this exercise's test cases to help you write your function.
